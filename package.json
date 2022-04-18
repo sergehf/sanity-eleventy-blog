@@ -14,5 +14,9 @@
   },
   "devDependencies": {
     "lerna": "^3.16.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "react-timepicker": "^2.0.2"
   }
 }
